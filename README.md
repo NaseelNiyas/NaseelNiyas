@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NaseelNiyas 
-- 🏫 I learn  Nodejs, Vue, Docker and a lot of other technologies
+- 🏫 I learn  Nodejs, React, Docker and a lot of other technologies
 - 📫 Want to contact me? Waiting for your message!... 
 
 Email:  naseel@techharvesting.in
