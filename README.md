@@ -12,10 +12,4 @@ Youtube Channel: [TechHarvesting](https://www.youtube.com/channel/UCvyU5jrYhkYny
 
 Visit my Website for other ways to contact....
 
-Look [here](http://github.com/techharvesting) for my othr GitHub repositories
-
-<!---
-NaseelNiyas/NaseelNiyas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+Look [here](http://github.com/techharvesting) for my other GitHub repositories
