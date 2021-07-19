@@ -3,6 +3,11 @@
 
 
 <!-- YOUTUBE:START -->
+- [What are REST APIs? //build your own from scratch (expressjs)](https://www.youtube.com/watch?v=tIp1HnT7WV4)
+- [IDs and Classes with CSS | CSS for Beginners #3 | TechHarvesting](https://www.youtube.com/watch?v=t7RK4tUyifM)
+- [Fonts with CSS | CSS for beginners #2 | TechHarvesting](https://www.youtube.com/watch?v=4GTALZSjtjE)
+- [Introduction to CSS | CSS for Beginners #1 | TechHarvesting](https://www.youtube.com/watch?v=BUhUeEKJX90)
+- [Deploy to Netlify | HTML for beginners #7 | TechHarvesting](https://www.youtube.com/watch?v=nhj_u30IuiE)
 <!-- YOUTUBE:END -->
 
 
