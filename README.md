@@ -6,11 +6,11 @@
 
 ## My Latest Videos on Youtube
 <!-- YOUTUBE:START -->
+- [Redis Tutorial #1 | Installations and Main Commands ~ TechHarvesting](https://www.youtube.com/watch?v=FKLC58YJU0U)
 - [JSON Crash Course | TechHarvesting](https://www.youtube.com/watch?v=d8w6qpShqiM)
 - [Git and GitHub Crash Course | Learn to use Git and connect it with GitHub ~ TechHarvesting](https://www.youtube.com/watch?v=Vorw9lsHNjs)
 - [What is a Raspberrypi 🍓? Setup a Raspberrypi headless! | TechHarvesting](https://www.youtube.com/watch?v=IFPoYtSqD4E)
 - [MongoDB for Beginners ~ Create an application with Express, Mongoose and MongoDB | TechHarvesting](https://www.youtube.com/watch?v=iM4HYMUWfPY)
-- [Spacing with CSS & the Box Model ~ CSS for beginners #4| TechHarvesting](https://www.youtube.com/watch?v=1csCfVOWzyE)
 <!-- YOUTUBE:END -->
 
 
