@@ -6,11 +6,11 @@
 
 ## My Latest Videos on Youtube
 <!-- YOUTUBE:START -->
+- [How to become a fullstack web developer ~ Tools and Technologies to learn| TechHarvesting](https://www.youtube.com/watch?v=M-Z_0cXZKPo)
 - [SSH Deep Dive | TechHarvesting](https://www.youtube.com/watch?v=hOwbUcnq5Rs)
 - [Redis Tutorial #1 | Installation and Main Commands ~ TechHarvesting](https://www.youtube.com/watch?v=FKLC58YJU0U)
 - [JSON Crash Course | TechHarvesting](https://www.youtube.com/watch?v=d8w6qpShqiM)
 - [Git and GitHub Crash Course | Learn to use Git and connect it with GitHub ~ TechHarvesting](https://www.youtube.com/watch?v=Vorw9lsHNjs)
-- [What is a Raspberrypi 🍓? Setup a Raspberrypi headless! | TechHarvesting](https://www.youtube.com/watch?v=IFPoYtSqD4E)
 <!-- YOUTUBE:END -->
 
 
