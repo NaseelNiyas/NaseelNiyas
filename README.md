@@ -41,7 +41,7 @@
 
 
 <br>
-
+<center>
 Youtube Channel: [TechHarvesting](https://www.youtube.com/channel/UCvyU5jrYhkYnybK6D1t5UHQ)
 
 Visit my Website for other ways to contact....
@@ -58,3 +58,5 @@ Look [here](http://github.com/techharvesting) for my other GitHub repositories
 [twitter]: https://twitter.com/naseelniyas
 [youtube]: https://youtube.com/TechHarvestingWithNaseel
 [linkedin]: https://www.linkedin.com/in/naseelniyas
+  
+ </center>
