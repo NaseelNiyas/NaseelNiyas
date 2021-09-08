@@ -6,11 +6,11 @@
 
 ## My Latest Videos on Youtube
 <!-- YOUTUBE:START -->
+- [React.js in 1 minute](https://www.youtube.com/watch?v=YlKbqPYUm7w)
 - [Sets in JavaScript  // do not repeat stuff in an array | TechHarvesting](https://www.youtube.com/watch?v=7g1gN4A2YLc)
 - [How to become a fullstack web developer ~ Tools and Technologies to learn| TechHarvesting](https://www.youtube.com/watch?v=M-Z_0cXZKPo)
 - [SSH Deep Dive | TechHarvesting](https://www.youtube.com/watch?v=hOwbUcnq5Rs)
 - [Redis Tutorial #1 | Installation and Main Commands ~ TechHarvesting](https://www.youtube.com/watch?v=FKLC58YJU0U)
-- [JSON Crash Course | TechHarvesting](https://www.youtube.com/watch?v=d8w6qpShqiM)
 <!-- YOUTUBE:END -->
 
 
