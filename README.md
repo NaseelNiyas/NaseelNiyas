@@ -25,6 +25,10 @@
 
 ## My Blog Posts
 <!-- BLOG_POSTS:START -->
+- [Stuff you might not know about JavaScript](https://techharvesting.in/super-cool-js-features)
+- [Customize your Terminal in Linux/Macos/WSL without ohmyzsh!](https://techharvesting.in/customize-your-terminal-in-linuxmacoswsl-without-ohmyzsh)
+- [Typescript with React](https://techharvesting.in/typescript-with-react)
+- [Node with Docker](https://techharvesting.in/node-with-docker)
 <!-- BLOG_POSTS:END -->
 
 # What I Know
