@@ -24,8 +24,8 @@
 <br />
 
 ## My Blog Posts
-<!-- HASHNODE:START -->
-<!-- HASHNODE:END -->
+<!-- BLOG_POSTS:START -->
+<!-- BLOG_POSTS:END -->
 
 # What I Know
 
