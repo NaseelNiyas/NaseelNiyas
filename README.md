@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @NaseelNiyas 
-- 🏫 I am a full stack web developer 
-- 🍃 I create applications with the mern stack ⚛️🟢
-
-
+ <center>👋 Hi, I’m @NaseelNiyas <br>
+ 🏫 I am a full stack web developer and I do Tutorials on Web dev and other topics
+<br><br><br>
+  
+![Twitter Follow](https://img.shields.io/twitter/follow/naseelniyas?color=blue&logo=twitter&style=for-the-badge)
+  ![GitHub followers](https://img.shields.io/github/followers/naseelniyas?color=black&logo=github&style=for-the-badge)
 
 ## My Latest Videos on Youtube
 <!-- YOUTUBE:START -->
@@ -56,11 +57,16 @@ Visit my Website for other ways to contact....
 
 Look [here](http://github.com/techharvesting) for my other GitHub repositories
 ---
+  
+ # Stats
   <img align="left" alt="Naseel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=naseelniyas&show_icons=true&hide_border=true&theme=nightowl" />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naseelniyas&layout=compact&theme=nightowl)](https://github.com/naseelniyas/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naseelniyas&layout=compact&theme=nightowl&hide_border=true)](https://github.com/naseelniyas/github-readme-stats)
+  
 
 ---
+  
+  ## ⚡
 
 [website]: https://techharvesting.in
 [twitter]: https://twitter.com/naseelniyas
@@ -68,3 +74,4 @@ Look [here](http://github.com/techharvesting) for my other GitHub repositories
 [linkedin]: https://www.linkedin.com/in/naseelniyas
   
  </center>
+  </center>
