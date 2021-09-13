@@ -26,6 +26,7 @@
 
 ## My Blog Posts
 <!-- BLOG_POSTS:START -->
+- [The best next.js workflow with Typescript, sass and more!](https://techharvesting.in/best-nextjs-workflow)
 - [Stuff you might not know about JavaScript](https://techharvesting.in/super-cool-js-features)
 - [Customize your Terminal in Linux/Macos/WSL without ohmyzsh!](https://techharvesting.in/customize-your-terminal-in-linuxmacoswsl-without-ohmyzsh)
 - [Typescript with React](https://techharvesting.in/typescript-with-react)
