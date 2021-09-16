@@ -20,11 +20,11 @@
 
 ## My Blog Posts
 <!-- BLOG_POSTS:START -->
-- [The best next.js workflow with Typescript, sass and more!](https://techharvesting.in/best-nextjs-workflow)
-- [Stuff you might not know about JavaScript](https://techharvesting.in/super-cool-js-features)
-- [Customize your Terminal in Linux/Macos/WSL without ohmyzsh!](https://techharvesting.in/customize-your-terminal-in-linuxmacoswsl-without-ohmyzsh)
-- [Typescript with React](https://techharvesting.in/typescript-with-react)
-- [Node with Docker](https://techharvesting.in/node-with-docker)
+- [The best next.js workflow with Typescript, sass and more!](https://blog.techharvesting.in/best-nextjs-workflow)
+- [Stuff you might not know about JavaScript](https://blog.techharvesting.in/super-cool-js-features)
+- [Customize your Terminal in Linux/Macos/WSL without ohmyzsh!](https://blog.techharvesting.in/customize-your-terminal-in-linuxmacoswsl-without-ohmyzsh)
+- [Typescript with React](https://blog.techharvesting.in/typescript-with-react)
+- [Node with Docker](https://blog.techharvesting.in/node-with-docker)
 <!-- BLOG_POSTS:END -->
 
 # What I Know
