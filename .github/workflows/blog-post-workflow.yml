@@ -15,4 +15,4 @@ jobs:
         with:
           comment_tag_name: "BLOG_POSTS"
           commit_message: "Update readme with latests posts"
-          feed_list: "https://techharvesting.in/rss.xml"
+          feed_list: "https://blog.techharvesting.in/rss.xml"
