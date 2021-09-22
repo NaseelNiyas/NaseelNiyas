@@ -19,8 +19,7 @@
 <br />
 
 ## My Blog Posts
-<!-- BLOG_POSTS:START --> 
- <br>
+<!-- BLOG_POSTS:START -->
 - [The best next.js workflow with Typescript, sass and more!](https://blog.techharvesting.in/best-nextjs-workflow)
 - [Stuff you might not know about JavaScript](https://blog.techharvesting.in/super-cool-js-features)
 - [Customize your Terminal in Linux/Macos/WSL without ohmyzsh!](https://blog.techharvesting.in/customize-your-terminal-in-linuxmacoswsl-without-ohmyzsh)
