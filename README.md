@@ -7,6 +7,7 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvyU5jrYhkYnybK6D1t5UHQ?logo=youtube&style=for-the-badge)](https://www.youtube.com/c/TechHarvestingwithNaseel)
 ## My Latest Videos on Youtube 
 <!-- YOUTUBE:START -->
+ <br>
 - [What is Devops? CI/CD and Devops tools explained!  TechHarvesting](https://www.youtube.com/watch?v=GYrHTXjBCkQ)
 - [Typescript with express | TechHarvesting](https://www.youtube.com/watch?v=EAIVdTXcXxY)
 - [React.js in 1 minute](https://www.youtube.com/watch?v=YlKbqPYUm7w)
@@ -19,7 +20,8 @@
 <br />
 
 ## My Blog Posts
-<!-- BLOG_POSTS:START -->
+<!-- BLOG_POSTS:START --> 
+ <br>
 - [The best next.js workflow with Typescript, sass and more!](https://blog.techharvesting.in/best-nextjs-workflow)
 - [Stuff you might not know about JavaScript](https://blog.techharvesting.in/super-cool-js-features)
 - [Customize your Terminal in Linux/Macos/WSL without ohmyzsh!](https://blog.techharvesting.in/customize-your-terminal-in-linuxmacoswsl-without-ohmyzsh)
