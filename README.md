@@ -1,4 +1,4 @@
- <center>👋 Hi, I’m @NaseelNiyas <br>
+ <center>👋 Hi, I’m Naseel <br>
  🏫 I am a full stack web developer and I do Tutorials on Web dev and other topics
 <br><br><br>
   
