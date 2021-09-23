@@ -1,7 +1,13 @@
  <center>👋 Hi, I’m Naseel <br>
  🏫 I am a full stack web developer and I do Tutorials on Web dev and other topics
 <br><br><br>
-  
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&color=263C8B&center=true&lines=I+am+Naseel+Niyas;A+13+year+old+full+stack+web+developer;Working+on+React+currently;and+also+trying+to+learn+typescript)](https://git.io/typing-svg)
+ 
+ 
+ 
+ 
+ 
 [![Twitter Follow](https://img.shields.io/twitter/follow/naseelniyas?color=blue&logo=twitter&style=for-the-badge)](http://twitter.com/naseelniyas)
 [![GitHub followers](https://img.shields.io/github/followers/naseelniyas?color=black&logo=github&style=for-the-badge)](http://github.com/naseelniyas)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvyU5jrYhkYnybK6D1t5UHQ?logo=youtube&style=for-the-badge)](https://www.youtube.com/c/TechHarvestingwithNaseel)
