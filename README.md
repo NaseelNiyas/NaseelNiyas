@@ -13,11 +13,11 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvyU5jrYhkYnybK6D1t5UHQ?logo=youtube&style=for-the-badge)](https://www.youtube.com/c/TechHarvestingwithNaseel)
 ## My Latest Videos on Youtube 
 <!-- YOUTUBE:START -->
+- [Typescript Crash Course - Learn typescript in 50 minutes ! ~ TechHarvesting](https://www.youtube.com/watch?v=zJATMfZ_xq0)
 - [What is Devops? CI/CD and Devops tools explained!  TechHarvesting](https://www.youtube.com/watch?v=GYrHTXjBCkQ)
 - [Typescript with express | TechHarvesting](https://www.youtube.com/watch?v=EAIVdTXcXxY)
 - [React.js in 1 minute](https://www.youtube.com/watch?v=YlKbqPYUm7w)
 - [Sets in JavaScript  // do not repeat stuff in an array | TechHarvesting](https://www.youtube.com/watch?v=7g1gN4A2YLc)
-- [How to become a fullstack web developer ~ Tools and Technologies to learn| TechHarvesting](https://www.youtube.com/watch?v=M-Z_0cXZKPo)
 <!-- YOUTUBE:END -->
 
 
