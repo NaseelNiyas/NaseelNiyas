@@ -67,5 +67,9 @@ Look <a href="http://github.com/techharvesting">here</a> for my other GitHub rep
 
  <h2> My Blog Posts </h2>
 <!-- BLOG_POSTS:START -->
-
+- [What is Nodejs? 🟩](https://techharvesting.in/what-is-node)
+- [The best next.js workflow with Typescript, sass and more!](https://techharvesting.in/best-nextjs-workflow)
+- [Stuff you might not know about JavaScript](https://techharvesting.in/super-cool-js-features)
+- [Customize your Terminal in Linux/Macos/WSL without ohmyzsh!](https://techharvesting.in/customize-your-terminal-in-linuxmacoswsl-without-ohmyzsh)
+- [Typescript with React](https://techharvesting.in/typescript-with-react)
 <!-- BLOG_POSTS:END -->
