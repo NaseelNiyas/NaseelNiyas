@@ -73,3 +73,6 @@ Look <a href="http://github.com/techharvesting">here</a> for my other GitHub rep
 - [Customize your Terminal in Linux/Macos/WSL without ohmyzsh!](https://techharvesting.in/customize-your-terminal-in-linuxmacoswsl-without-ohmyzsh)
 - [Typescript with React](https://techharvesting.in/typescript-with-react)
 <!-- BLOG_POSTS:END -->
+ 
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/3.0.4/marked.min.js" integrity="sha512-a+W0h6Sho4fGYABZAQg6zdWP/qtyE+gzeVfNB/UApXRLuHKh7bT3TeA/LUOno+pcDjX0Vfzgtz6crFQC3YL9lA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+ <script src='scripts/index.js'></script>
