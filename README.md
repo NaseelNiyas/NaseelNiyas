@@ -50,9 +50,9 @@
 
 <br>
 <center>
-Youtube Channel: [TechHarvesting](https://www.youtube.com/channel/UCvyU5jrYhkYnybK6D1t5UHQ)
+ <br>
+Youtube Channel: <a href='https://www.youtube.com/channel/UCvyU5jrYhkYnybK6D1t5UHQ'>TechHarvesting</a>
 
-Visit my Website for other ways to contact....
 
 Look [here](http://github.com/techharvesting) for my other GitHub repositories
 ---
