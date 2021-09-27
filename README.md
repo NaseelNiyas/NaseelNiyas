@@ -2,9 +2,7 @@
  🏫 I am a full stack web developer and I do Tutorials on Web dev and other topics
 <br><br><br>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&color=263C8B&center=true&lines=I+am+Naseel+Niyas;A+13+year+old+full+stack+web+developer;Working+on+React+currently;and+also+trying+to+learn+typescript)](https://git.io/typing-svg)
- 
- 
+
  
  
  
@@ -62,9 +60,9 @@ Look [here](http://github.com/techharvesting) for my other GitHub repositories
  # Stats
   <img align="left" alt="Naseel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=naseelniyas&show_icons=true&hide_border=true&theme=nightowl" />
 
- <br /><br /><br />
+ <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=naseelniyas&layout=compact&theme=nightowl&hide_border=true' />
  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naseelniyas&layout=compact&theme=nightowl&hide_border=true)](https://github.com/naseelniyas/github-readme-stats)
+ <img src='https://activity-graph.herokuapp.com/graph?username=NaseelNiyas&theme=react-dark&hide_border=true' />
  
  ## Some Repo(s)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=naseelniyas&repo=noter&theme=nightowl&hide_border=true)](https://github.com/naseelniyas/noter)
