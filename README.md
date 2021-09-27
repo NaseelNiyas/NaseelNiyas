@@ -52,7 +52,7 @@ Look <a href="http://github.com/techharvesting">here</a> for my other GitHub rep
  <h2> ⚡ </h2>
 
  </center>
- <h2> My Latest Videos on Youtube  </h2>
+ <h2> My Latest Videos on Youtube  </h2> <br>
 <!-- YOUTUBE:START -->
 - [Typescript Crash Course - Learn typescript in 50 minutes ! ~ TechHarvesting](https://www.youtube.com/watch?v=zJATMfZ_xq0)
 - [What is Devops? CI/CD and Devops tools explained!  TechHarvesting](https://www.youtube.com/watch?v=GYrHTXjBCkQ)
@@ -65,7 +65,7 @@ Look <a href="http://github.com/techharvesting">here</a> for my other GitHub rep
 
 <br />
 
- <h2> My Blog Posts </h2>
+ <h2> My Blog Posts </h2> <br>
 <!-- BLOG_POSTS:START -->
 - [What is Nodejs? 🟩](https://techharvesting.in/what-is-node)
 - [The best next.js workflow with Typescript, sass and more!](https://techharvesting.in/best-nextjs-workflow)
@@ -74,5 +74,3 @@ Look <a href="http://github.com/techharvesting">here</a> for my other GitHub rep
 - [Typescript with React](https://techharvesting.in/typescript-with-react)
 <!-- BLOG_POSTS:END -->
  
- <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/3.0.4/marked.min.js" integrity="sha512-a+W0h6Sho4fGYABZAQg6zdWP/qtyE+gzeVfNB/UApXRLuHKh7bT3TeA/LUOno+pcDjX0Vfzgtz6crFQC3YL9lA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
- <script src='scripts/index.js'></script>
