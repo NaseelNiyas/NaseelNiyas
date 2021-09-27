@@ -65,7 +65,7 @@ Look <a href="http://github.com/techharvesting">here</a> for my other GitHub rep
 
 <br />
 
- <h2> My Blog Posts </h22>
+ <h2> My Blog Posts </h2>
 <!-- BLOG_POSTS:START -->
 
 <!-- BLOG_POSTS:END -->
