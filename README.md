@@ -54,7 +54,11 @@ Look <a href="http://github.com/techharvesting">here</a> for my other GitHub rep
  </center>
  <h2> My Latest Videos on Youtube  </h2>
 <!-- YOUTUBE:START -->
-
+- [Typescript Crash Course - Learn typescript in 50 minutes ! ~ TechHarvesting](https://www.youtube.com/watch?v=zJATMfZ_xq0)
+- [What is Devops? CI/CD and Devops tools explained!  TechHarvesting](https://www.youtube.com/watch?v=GYrHTXjBCkQ)
+- [Typescript with express | TechHarvesting](https://www.youtube.com/watch?v=EAIVdTXcXxY)
+- [React.js in 1 minute](https://www.youtube.com/watch?v=YlKbqPYUm7w)
+- [Sets in JavaScript  // do not repeat stuff in an array | TechHarvesting](https://www.youtube.com/watch?v=7g1gN4A2YLc)
 <!-- YOUTUBE:END -->
 
 
