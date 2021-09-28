@@ -33,7 +33,7 @@ Youtube Channel: <a href='https://www.youtube.com/channel/UCvyU5jrYhkYnybK6D1t5U
 
 
 Look <a href="http://github.com/techharvesting">here</a> for my other GitHub repositories
----
+
 
  <h1> Stats </h1>
   <img align="left" alt="Naseel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=naseelniyas&show_icons=true&hide_border=true&theme=nightowl" />
@@ -45,9 +45,9 @@ Look <a href="http://github.com/techharvesting">here</a> for my other GitHub rep
  <h2> Some Repo(s) </h2>
  <a href="https://github.com/naseelniyas/noter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=naseelniyas&amp;repo=noter&amp;theme=nightowl&amp;hide_border=true" alt="Readme Card"></a>
 
+<br>
 
 
----
 
  <h2> ⚡ </h2>
 
