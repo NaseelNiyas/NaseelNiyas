@@ -52,5 +52,4 @@ Look <a href="http://github.com/techharvesting">here</a> for my other GitHub rep
  <h2> ⚡ </h2>
 
  </center>
- <h2> My Latest Videos on Youtube  </h2> <br>
- 
+
