@@ -53,24 +53,4 @@ Look <a href="http://github.com/techharvesting">here</a> for my other GitHub rep
 
  </center>
  <h2> My Latest Videos on Youtube  </h2> <br>
-<!-- YOUTUBE:START -->
-- [Typescript Crash Course - Learn typescript in 50 minutes ! ~ TechHarvesting](https://www.youtube.com/watch?v=zJATMfZ_xq0)
-- [What is Devops? CI/CD and Devops tools explained!  TechHarvesting](https://www.youtube.com/watch?v=GYrHTXjBCkQ)
-- [Typescript with express | TechHarvesting](https://www.youtube.com/watch?v=EAIVdTXcXxY)
-- [React.js in 1 minute](https://www.youtube.com/watch?v=YlKbqPYUm7w)
-- [Sets in JavaScript  // do not repeat stuff in an array | TechHarvesting](https://www.youtube.com/watch?v=7g1gN4A2YLc)
-<!-- YOUTUBE:END -->
-
-
-
-<br />
-
- <h2> My Blog Posts </h2> <br>
-<!-- BLOG_POSTS:START -->
-- [What is Nodejs? 🟩](https://techharvesting.in/what-is-node)
-- [The best next.js workflow with Typescript, sass and more!](https://techharvesting.in/best-nextjs-workflow)
-- [Stuff you might not know about JavaScript](https://techharvesting.in/super-cool-js-features)
-- [Customize your Terminal in Linux/Macos/WSL without ohmyzsh!](https://techharvesting.in/customize-your-terminal-in-linuxmacoswsl-without-ohmyzsh)
-- [Typescript with React](https://techharvesting.in/typescript-with-react)
-<!-- BLOG_POSTS:END -->
  
