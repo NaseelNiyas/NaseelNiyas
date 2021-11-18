@@ -39,7 +39,7 @@ Look <a href="http://github.com/techharvesting">here</a> for my other GitHub rep
   <img align="left" alt="Naseel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=naseelniyas&show_icons=true&hide_border=true&theme=nightowl" />
 
  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=naseelniyas&layout=compact&theme=nightowl&hide_border=true' />
-
+<br>
  <img src='https://activity-graph.herokuapp.com/graph?username=NaseelNiyas&theme=react-dark&hide_border=true' />
 
  <h2> Some Repo(s) </h2>
