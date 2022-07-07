@@ -42,7 +42,7 @@ Look <a href="http://github.com/techharvesting">here</a> for my other GitHub rep
 <br>
 
  <h2> Some Repo(s) </h2>
-  <a href="https://github.com/naseelniyas/noter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=naseelniyas&amp;repo=fetchu&amp;theme=nightowl&amp;hide_border=true" alt="Readme Card"></a>
+  <a href="https://github.com/naseelniyas/fetchu"><img src="https://github-readme-stats.vercel.app/api/pin/?username=naseelniyas&amp;repo=fetchu&amp;theme=nightowl&amp;hide_border=true" alt="Readme Card"></a>
  <a href="https://github.com/naseelniyas/noter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=naseelniyas&amp;repo=noter&amp;theme=nightowl&amp;hide_border=true" alt="Readme Card"></a>
 
 <br>
