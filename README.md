@@ -1,4 +1,4 @@
-just a full stack web-dev <br>
+i'm just a full stack web-dev <br>
  i also do tutorials on web dev and other topics....
 <br><br><br>
 
